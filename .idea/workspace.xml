@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="nuist_hadoop:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78d97eb0-6654-4860-b7fd-0a60cc72b7d9" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/nuist_hadoop_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/itemcf/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/itemcf/Step1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/itemcf/Step2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/itemcf/Step3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/itemcf/Step4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/itemcf/Step5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/itemcf/Step6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myJava/Mytest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myJava/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myJava/StudentOfHadoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myhdfs/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myhdfs/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myhdfs/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myhdfs/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myhdfs/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myhdfs/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myhdfs/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myhdfs/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myweather/Desc4Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myweather/MyGrouping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myweather/MyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myweather/MyPartitioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myweather/MyReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myweather/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/myweather/YearTemperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/smallfile/M1W.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/smallfile/M2R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/smallfile/S1W.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/smallfile/S2W.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/smallfile/SequenceFile2MapFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc/MyWordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc/MyWordCount1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc/MyWordCount_most.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2/WordCountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2/WordCountReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2/WordCountRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2_combiner/WordCountCombiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2_combiner/WordCountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2_combiner/WordCountReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2_combiner/WordCountRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2_group/MyGrouping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2_group/WordCountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2_group/WordCountReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2_group/WordCountRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2_partitioner/WordCountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2_partitioner/WordCountReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2_partitioner/WordCountRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2_sort/WordCountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2_sort/WordCountReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2_sort/WordCountRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/wc2_sort/WordDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/core-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hdfs-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/neuedu/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Object" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/neuedu/itemcf/Step6.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2IFBhAmX4uGHP4AN6gFYW4h7gz5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultPlantUmlFileTemplate": "UML Object",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/学习资料/大三上/企业课/nuist_hadoop/src/main/java/com/neuedu/myhdfs",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\学习资料\大三上\企业课\nuist_hadoop\src\main\java\com\neuedu\myhdfs" />
+      <recent name="E:\学习资料\大三上\企业课\nuist_hadoop\src\main\java\wc2_group" />
+      <recent name="E:\学习资料\大三上\企业课\nuist_hadoop\src\main\java\wc2_sort" />
+      <recent name="E:\学习资料\大三上\企业课\nuist_hadoop\src\main\java\wc2_partitioner" />
+      <recent name="E:\学习资料\大三上\企业课\nuist_hadoop\src\main\java\wc2" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.neuedu.itemcf" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.neuedu" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.neuedu.itemcf" />
+      <recent name="com.neuedu.wc" />
+      <recent name="mytemperature" />
+      <recent name="wc" />
+      <recent name="smallfile" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="应用程序.Manager">
+    <configuration name="Manager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neuedu.itemcf.Manager" />
+      <module name="nuist_hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neuedu.itemcf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyWordCount (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wc.MyWordCount" />
+      <module name="nuist_hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyWordCount (2)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <envs>
+        <env name="USERNAME" value="Isa" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="wc.MyWordCount" />
+      <module name="nuist_hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyWordCount (3)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wc.MyWordCount" />
+      <module name="nuist_hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyWordCount (4)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wc.MyWordCount" />
+      <module name="nuist_hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyWordCount " type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="wc.MyWordCount" />
+      <module name="nuist_hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neuedu.wc2_combiner.WordCountRun" />
+      <module name="nuist_hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neuedu.wc2_combiner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.neuedu.myweather.Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neuedu.myweather.Run" />
+      <module name="nuist_hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neuedu.myweather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.neuedu.wc2_group.WordCountRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neuedu.wc2_group.WordCountRun" />
+      <module name="nuist_hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neuedu.wc2_group.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.neuedu.wc2_partitioner.WordCountRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neuedu.wc2_partitioner.WordCountRun" />
+      <module name="nuist_hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neuedu.wc2_partitioner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.MyWordCount " />
+      <item itemvalue="应用程序.MyWordCount (1)" />
+      <item itemvalue="应用程序.MyWordCount (2)" />
+      <item itemvalue="应用程序.MyWordCount (3)" />
+      <item itemvalue="应用程序.MyWordCount (4)" />
+      <item itemvalue="应用程序.Manager" />
+      <item itemvalue="应用程序.com.neuedu.myweather.Run" />
+      <item itemvalue="应用程序.com.neuedu.wc2_group.WordCountRun" />
+      <item itemvalue="应用程序.com.neuedu.wc2_partitioner.WordCountRun" />
+      <item itemvalue="应用程序.WordCountRun" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Manager" />
+        <item itemvalue="应用程序.com.neuedu.myweather.Run" />
+        <item itemvalue="应用程序.com.neuedu.wc2_partitioner.WordCountRun" />
+        <item itemvalue="应用程序.com.neuedu.wc2_group.WordCountRun" />
+        <item itemvalue="应用程序.WordCountRun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Isa Huang\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="78d97eb0-6654-4860-b7fd-0a60cc72b7d9" name="变更" comment="" />
+      <created>1669767569132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669767569132</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.IOException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.Exception" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="nuist_hadoop" type="b2602c69:ProjectViewProjectNode" />
+        <item name="nuist_hadoop" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="nuist_hadoop" type="b2602c69:ProjectViewProjectNode" />
+        <item name="nuist_hadoop" type="462c0819:PsiDirectoryNode" />
+        <item name="src" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
